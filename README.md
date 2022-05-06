@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm Trying for something very fresh innovation.
+Rubix Repo includes the following :- 
+1) Stone Paper Scissors Game
+2) Hangman Word Game
