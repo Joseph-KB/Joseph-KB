@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Trying for something very fresh innovation.<br />
+People Living in my Repos are mentioned below<br />
+
 Rubix Repo includes the following :- 
 1) Stone Paper Scissors Game
 2) Hangman Word Game
